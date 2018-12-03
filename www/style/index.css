@@ -1,0 +1,38 @@
+.header{
+	height:60px;
+	line-height: 60px;
+	background:#eee;
+	font-size: 30px;
+	/*text-align: center;*/
+}
+.content{
+	margin-top: 10px;
+}
+.row{
+	position: absolute;
+	top: 30px;
+	left: 300px;
+}
+.form-group{
+	text-align: center;
+}
+.form-horizontal{
+	margin:15px 15px;
+}
+.form-group h4{
+	display: inline-block;
+}
+#time{
+	display: inline-block;
+	font-size: 18px;
+}
+.count{
+	margin-left:200px ;
+}
+.glyphicon-chevron-down{
+	/*margin-left: -20px;*/
+	/*margin-top: 10px;*/
+}
+.glyphicon-chevron-up{
+	margin-top: -10px;
+}
